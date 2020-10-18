@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hey, I'm joonhwan👋</h1>
+<h3 align="center">A Django Back-End Web Developer</h3>
 
-<!--
-**xncbf/xncbf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/%EC%A4%80%ED%99%98-%EA%B9%80-80900a10b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xncbf" height="30" width="40" /></a>
+<a href="https://xncbf12@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="xncbf12@gmail.com" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xncbf&show_icons=true&theme=cobalt" alt="xncbf"/>
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xncbf&layout=compact&theme=cobalt" alt="xncbf"/>
+</a>
