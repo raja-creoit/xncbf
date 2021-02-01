@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
-
 <h1 align="center">Hey, I'm joonhwan👋</h1>
 <h3 align="center">A Django Back-End Web Developer</h3>
 
@@ -12,9 +10,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-<i class="devicon-python-plain-wordmark colored"></i>
-<i class="devicon-django-plain colored"></i>
-  
+python django
+
 </p>
 
 <a href="">
