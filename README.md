@@ -7,12 +7,6 @@
 <a href="https://xncbf12@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="xncbf12@gmail.com" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-
-python django
-
-</p>
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xncbf&show_icons=true&theme=cobalt" alt="xncbf"/>
